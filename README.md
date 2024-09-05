@@ -10,4 +10,4 @@ The program allows users to perform the following operations:
 
 The database is stored within a text file seperated by commas according to its own category.
 
-Used [OnlineGDB]([url](https://www.onlinegdb.com/)) to Run code.
+Used [https://www.onlinegdb.com/]([url](https://www.onlinegdb.com/)) to Run code.

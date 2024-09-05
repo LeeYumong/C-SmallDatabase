@@ -1,4 +1,4 @@
-# C++ SmallDatabase
+# C++ Small Database
 The given C++ code builds a mnimal text-based database management system designed to handle entries in Documents. 
 Each document consists of an ID, a Title, and Content. 
 The program allows users to perform the following operations:
